@@ -6,23 +6,23 @@ This project analyzes hotel booking data to uncover patterns in customer behavio
 
 ## Features
 
-1.Data cleaning and preprocessing
+1. Data cleaning and preprocessing
 
-2.Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 
-3.Visualizations for booking trends, customer demographics, and revenue
+3. Visualizations for booking trends, customer demographics, and revenue
 
-4.Insights for hotel management and decision-making
+4. Insights for hotel management and decision-making
 
 ## Tech Stack
 
--> Python
+- Python
 
--> Jupyter Notebook
+- Jupyter Notebook
 
--> Pandas, NumPy
+- Pandas, NumPy
 
--> Matplotlib, Seaborn
+- Matplotlib, Seaborn
 
 ## Installation & Usage
 
@@ -32,9 +32,11 @@ Ensure you have Python installed along with the required libraries:
 
 **Running the Notebook**
 
-- Download the hotels_analysis.ipynb file from the repository.
-- Open Jupyter Notebook and navigate to the downloaded file.
-- Open the file and run the cells in order to execute the analysis.
+1. Download the hotels_analysis.ipynb file from the repository.
+
+2. Open Jupyter Notebook and navigate to the downloaded file.
+
+3. Open the file and run the cells in order to execute the analysis.
 
 ## Dataset
 
@@ -42,28 +44,28 @@ The dataset used in this project is a dummy dataset created specifically for ana
 
 ## Results & Insights
 
--> Presidential rooms boast the highest occupancy rate.
+- Presidential rooms boast the highest occupancy rate.
 
--> Delhi leads in occupancy, followed closely by other cities.
+- Delhi leads in occupancy, followed closely by other cities.
 
--> Weekends show higher occupancy (>70%) than weekdays (50.9%).
+- Weekends show higher occupancy (>70%) than weekdays (50.9%).
 
--> Bangalore consistently has the lowest occupancy rate.
+- Bangalore consistently has the lowest occupancy rate.
 
--> August data may be incomplete; only available for Mumbai and Bangalore.
+- August data may be incomplete; only available for Mumbai and Bangalore.
 
 **Revenue Analysis:**
 
--> Delhi has high occupancy but the least realized revenue.
+- Delhi has high occupancy but the least realized revenue.
 
--> Mumbai records the highest revenue.
+- Mumbai records the highest revenue.
 
--> Total revenue per month peaks in July.
+- Total revenue per month peaks in July.
 
 **Service Quality and Ratings:**
 
--> Average ratings are uniform across all cities.
+- Average ratings are uniform across all cities.
 
--> None of the ratings are ≥4, highlighting the need for service quality enhancement.
+- None of the ratings are ≥4, highlighting the need for service quality enhancement.
 
--> Bookings Analysis:  40.9% bookings are from 'others'; strategic analysis recommended for market capture.
+- Bookings Analysis:  40.9% bookings are from 'others'; strategic analysis recommended for market capture.
